@@ -1,0 +1,11 @@
+namespace: deekshith000007
+name: my_collection
+version: '1.0.0'
+readme: README.md
+authors:
+  - "deekshith000007  <deekshithpoojary397@gmail.com>"
+description: "A collection for my specific automation tasks"
+license: MIT
+dependencies: []
+repository: "https://github.com/deekshith000007/my_collection.git"  # <-- Add this line with your repository URL
+
